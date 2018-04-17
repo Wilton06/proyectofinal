@@ -1,0 +1,16 @@
+
+<resources>
+    <string name="app_name">ProyectoFinalProgra3</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre_producto">Nombre del Producto</string>
+    <string name="decripcion">Descripcion del Producto</string>
+    <string name="publicar">Publicar</string>
+    <string name="username">Nombre de Ususario</string>
+    <string name="password">Contrseña</string>
+    <string name="loggin">Iniciar Secion</string>
+    <string name="register">Registrase</string>
+    <string name="registerlogin">Registrase e Ingresar</string>
+    <string name="loginerror">Por favor Ingrese un Ususario y contraseña validos</string>
+    <string name="tryregister">El ususario es invalido intente registrarlo</string>
+    <string name="logout">Cerrar Seción</string>
+</resources>
